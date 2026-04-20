@@ -1,0 +1,274 @@
+brand,cpu,gpu,ram_gb,storage_gb,screen_size,type,Price
+APPLE,other,integrated,8,8,13.0,normal,69900
+APPLE,other,integrated,16,16,13.6,normal,119900
+APPLE,other,integrated,16,16,13.6,normal,119900
+ACER,i5,RTX 4050,16,16,16.0,gaming,82990
+ASUS,r7,RTX 3050,16,16,15.6,gaming,69990
+APPLE,other,integrated,16,16,13.6,normal,119900
+APPLE,other,integrated,16,16,15.3,normal,131900
+HP,other,integrated,16,16,14.0,normal,62990
+HP,other,integrated,16,16,16.0,normal,71990
+APPLE,other,integrated,8,8,13.0,normal,69900
+ASUS,i5,integrated,16,16,14.0,normal,67990
+ASUS,other,RTX 4050,16,16,16.0,gaming,88690
+ASUS,i5,integrated,16,16,16.0,normal,63990
+APPLE,other,integrated,24,24,14.2,normal,209900
+HP,r7,RTX 5050,24,24,15.6,gaming,116990
+HP,r5,integrated,8,8,15.6,normal,48490
+APPLE,other,integrated,8,8,13.0,normal,79900
+HP,other,integrated,16,16,14.0,normal,107990
+LENOVO,i5,RTX 3050,16,16,15.6,gaming,82990
+LENOVO,other,integrated,24,24,14.0,normal,93990
+APPLE,other,integrated,16,16,15.3,normal,122900
+APPLE,other,integrated,8,8,13.0,normal,69900
+APPLE,other,integrated,16,16,13.6,normal,119900
+APPLE,other,integrated,16,16,13.6,normal,119900
+ACER,i5,RTX 4050,16,16,16.0,gaming,82990
+ASUS,r7,RTX 3050,16,16,15.6,gaming,69990
+APPLE,other,integrated,16,16,13.6,normal,119900
+APPLE,other,integrated,16,16,15.3,normal,131900
+HP,other,integrated,16,16,14.0,normal,62990
+HP,other,integrated,16,16,16.0,normal,71990
+APPLE,other,integrated,8,8,13.0,normal,69900
+ASUS,i5,integrated,16,16,14.0,normal,67990
+ASUS,other,RTX 4050,16,16,16.0,gaming,88690
+ASUS,i5,integrated,16,16,16.0,normal,63990
+APPLE,other,integrated,24,24,14.2,normal,209900
+HP,r7,RTX 5050,24,24,15.6,gaming,116990
+HP,r5,integrated,8,8,15.6,normal,48490
+APPLE,other,integrated,8,8,13.0,normal,79900
+HP,other,integrated,16,16,14.0,normal,107990
+LENOVO,i5,RTX 3050,16,16,15.6,gaming,82990
+LENOVO,other,integrated,24,24,14.0,normal,93990
+APPLE,other,integrated,16,16,15.3,normal,122900
+APPLE,other,integrated,8,8,13.0,normal,69900
+APPLE,other,integrated,16,16,13.6,normal,119900
+APPLE,other,integrated,16,16,13.6,normal,119900
+ACER,i5,RTX 4050,16,16,16.0,gaming,82990
+ASUS,r7,RTX 3050,16,16,15.6,gaming,69990
+APPLE,other,integrated,16,16,13.6,normal,119900
+APPLE,other,integrated,16,16,15.3,normal,131900
+HP,other,integrated,16,16,14.0,normal,62990
+HP,other,integrated,16,16,16.0,normal,71990
+APPLE,other,integrated,8,8,13.0,normal,69900
+ASUS,i5,integrated,16,16,14.0,normal,67990
+ASUS,other,RTX 4050,16,16,16.0,gaming,88690
+ASUS,i5,integrated,16,16,16.0,normal,63990
+APPLE,other,integrated,24,24,14.2,normal,209900
+HP,r7,RTX 5050,24,24,15.6,gaming,116990
+HP,r5,integrated,8,8,15.6,normal,48490
+APPLE,other,integrated,8,8,13.0,normal,79900
+HP,other,integrated,16,16,14.0,normal,107990
+LENOVO,i5,RTX 3050,16,16,15.6,gaming,82990
+LENOVO,other,integrated,24,24,14.0,normal,93990
+APPLE,other,integrated,16,16,15.3,normal,122900
+APPLE,other,integrated,8,8,13.0,normal,69900
+APPLE,other,integrated,16,16,13.6,normal,119900
+APPLE,other,integrated,16,16,13.6,normal,119900
+ACER,i5,RTX 4050,16,16,16.0,gaming,82990
+ASUS,r7,RTX 3050,16,16,15.6,gaming,69990
+APPLE,other,integrated,16,16,13.6,normal,119900
+APPLE,other,integrated,16,16,15.3,normal,131900
+HP,other,integrated,16,16,14.0,normal,62990
+HP,other,integrated,16,16,16.0,normal,71990
+APPLE,other,integrated,8,8,13.0,normal,69900
+ASUS,i5,integrated,16,16,14.0,normal,67990
+ASUS,other,RTX 4050,16,16,16.0,gaming,88690
+ASUS,i5,integrated,16,16,16.0,normal,63990
+APPLE,other,integrated,24,24,14.2,normal,209900
+HP,r7,RTX 5050,24,24,15.6,gaming,116990
+HP,r5,integrated,8,8,15.6,normal,48490
+APPLE,other,integrated,8,8,13.0,normal,79900
+HP,other,integrated,16,16,14.0,normal,107990
+LENOVO,i5,RTX 3050,16,16,15.6,gaming,82990
+LENOVO,other,integrated,24,24,14.0,normal,93990
+APPLE,other,integrated,16,16,15.3,normal,122900
+APPLE,other,integrated,8,8,13.0,normal,69900
+APPLE,other,integrated,16,16,13.6,normal,119900
+APPLE,other,integrated,16,16,13.6,normal,119900
+ACER,i5,RTX 4050,16,16,16.0,gaming,82990
+ASUS,r7,RTX 3050,16,16,15.6,gaming,69990
+APPLE,other,integrated,16,16,13.6,normal,119900
+APPLE,other,integrated,16,16,15.3,normal,131900
+HP,other,integrated,16,16,14.0,normal,62990
+HP,other,integrated,16,16,16.0,normal,71990
+APPLE,other,integrated,8,8,13.0,normal,69900
+ASUS,i5,integrated,16,16,14.0,normal,67990
+ASUS,other,RTX 4050,16,16,16.0,gaming,88690
+ASUS,i5,integrated,16,16,16.0,normal,63990
+APPLE,other,integrated,24,24,14.2,normal,209900
+HP,r7,RTX 5050,24,24,15.6,gaming,116990
+HP,r5,integrated,8,8,15.6,normal,48490
+APPLE,other,integrated,8,8,13.0,normal,79900
+HP,other,integrated,16,16,14.0,normal,107990
+LENOVO,i5,RTX 3050,16,16,15.6,gaming,82990
+LENOVO,other,integrated,24,24,14.0,normal,93990
+APPLE,other,integrated,16,16,15.3,normal,122900
+APPLE,other,integrated,8,8,13.0,normal,69900
+APPLE,other,integrated,16,16,13.6,normal,119900
+APPLE,other,integrated,16,16,13.6,normal,119900
+ACER,i5,RTX 4050,16,16,16.0,gaming,82990
+ASUS,r7,RTX 3050,16,16,15.6,gaming,69990
+APPLE,other,integrated,16,16,13.6,normal,119900
+APPLE,other,integrated,16,16,15.3,normal,131900
+HP,other,integrated,16,16,14.0,normal,62990
+HP,other,integrated,16,16,16.0,normal,71990
+APPLE,other,integrated,8,8,13.0,normal,69900
+ASUS,i5,integrated,16,16,14.0,normal,67990
+ASUS,other,RTX 4050,16,16,16.0,gaming,88690
+ASUS,i5,integrated,16,16,16.0,normal,63990
+APPLE,other,integrated,24,24,14.2,normal,209900
+HP,r7,RTX 5050,24,24,15.6,gaming,116990
+HP,r5,integrated,8,8,15.6,normal,48490
+APPLE,other,integrated,8,8,13.0,normal,79900
+HP,other,integrated,16,16,14.0,normal,107990
+LENOVO,i5,RTX 3050,16,16,15.6,gaming,82990
+LENOVO,other,integrated,24,24,14.0,normal,93990
+APPLE,other,integrated,16,16,15.3,normal,122900
+APPLE,other,integrated,8,8,13.0,normal,69900
+APPLE,other,integrated,16,16,13.6,normal,119900
+APPLE,other,integrated,16,16,13.6,normal,119900
+ACER,i5,RTX 4050,16,16,16.0,gaming,82990
+ASUS,r7,RTX 3050,16,16,15.6,gaming,69990
+APPLE,other,integrated,16,16,13.6,normal,119900
+APPLE,other,integrated,16,16,15.3,normal,131900
+HP,other,integrated,16,16,14.0,normal,62990
+HP,other,integrated,16,16,16.0,normal,71990
+APPLE,other,integrated,8,8,13.0,normal,69900
+ASUS,i5,integrated,16,16,14.0,normal,67990
+ASUS,other,RTX 4050,16,16,16.0,gaming,88690
+ASUS,i5,integrated,16,16,16.0,normal,63990
+APPLE,other,integrated,24,24,14.2,normal,209900
+HP,r7,RTX 5050,24,24,15.6,gaming,116990
+HP,r5,integrated,8,8,15.6,normal,48490
+APPLE,other,integrated,8,8,13.0,normal,79900
+HP,other,integrated,16,16,14.0,normal,107990
+LENOVO,i5,RTX 3050,16,16,15.6,gaming,82990
+LENOVO,other,integrated,24,24,14.0,normal,93990
+APPLE,other,integrated,16,16,15.3,normal,122900
+APPLE,other,integrated,8,8,13.0,normal,69900
+APPLE,other,integrated,16,16,13.6,normal,119900
+APPLE,other,integrated,16,16,13.6,normal,119900
+ACER,i5,RTX 4050,16,16,16.0,gaming,82990
+ASUS,r7,RTX 3050,16,16,15.6,gaming,69990
+APPLE,other,integrated,16,16,13.6,normal,119900
+APPLE,other,integrated,16,16,15.3,normal,131900
+HP,other,integrated,16,16,14.0,normal,62990
+HP,other,integrated,16,16,16.0,normal,71990
+APPLE,other,integrated,8,8,13.0,normal,69900
+ASUS,i5,integrated,16,16,14.0,normal,67990
+ASUS,other,RTX 4050,16,16,16.0,gaming,88690
+ASUS,i5,integrated,16,16,16.0,normal,63990
+APPLE,other,integrated,24,24,14.2,normal,209900
+HP,r7,RTX 5050,24,24,15.6,gaming,116990
+HP,r5,integrated,8,8,15.6,normal,48490
+APPLE,other,integrated,8,8,13.0,normal,79900
+HP,other,integrated,16,16,14.0,normal,107990
+LENOVO,i5,RTX 3050,16,16,15.6,gaming,82990
+LENOVO,other,integrated,24,24,14.0,normal,93990
+APPLE,other,integrated,16,16,15.3,normal,122900
+APPLE,other,integrated,8,8,13.0,normal,69900
+APPLE,other,integrated,16,16,13.6,normal,119900
+APPLE,other,integrated,16,16,13.6,normal,119900
+ACER,i5,RTX 4050,16,16,16.0,gaming,82990
+ASUS,r7,RTX 3050,16,16,15.6,gaming,69990
+APPLE,other,integrated,16,16,13.6,normal,119900
+APPLE,other,integrated,16,16,15.3,normal,131900
+HP,other,integrated,16,16,14.0,normal,62990
+HP,other,integrated,16,16,16.0,normal,71990
+APPLE,other,integrated,8,8,13.0,normal,69900
+ASUS,i5,integrated,16,16,14.0,normal,67990
+ASUS,other,RTX 4050,16,16,16.0,gaming,88690
+ASUS,i5,integrated,16,16,16.0,normal,63990
+APPLE,other,integrated,24,24,14.2,normal,209900
+HP,r7,RTX 5050,24,24,15.6,gaming,116990
+HP,r5,integrated,8,8,15.6,normal,48490
+APPLE,other,integrated,8,8,13.0,normal,79900
+HP,other,integrated,16,16,14.0,normal,107990
+LENOVO,i5,RTX 3050,16,16,15.6,gaming,82990
+LENOVO,other,integrated,24,24,14.0,normal,93990
+APPLE,other,integrated,16,16,15.3,normal,122900
+APPLE,other,integrated,8,8,13.0,normal,69900
+APPLE,other,integrated,16,16,13.6,normal,119900
+APPLE,other,integrated,16,16,13.6,normal,119900
+ACER,i5,RTX 4050,16,16,16.0,gaming,82990
+ASUS,r7,RTX 3050,16,16,15.6,gaming,69990
+APPLE,other,integrated,16,16,13.6,normal,119900
+APPLE,other,integrated,16,16,15.3,normal,131900
+HP,other,integrated,16,16,14.0,normal,62990
+HP,other,integrated,16,16,16.0,normal,71990
+APPLE,other,integrated,8,8,13.0,normal,69900
+ASUS,i5,integrated,16,16,14.0,normal,67990
+ASUS,other,RTX 4050,16,16,16.0,gaming,88690
+ASUS,i5,integrated,16,16,16.0,normal,63990
+APPLE,other,integrated,24,24,14.2,normal,209900
+HP,r7,RTX 5050,24,24,15.6,gaming,116990
+HP,r5,integrated,8,8,15.6,normal,48490
+APPLE,other,integrated,8,8,13.0,normal,79900
+HP,other,integrated,16,16,14.0,normal,107990
+LENOVO,i5,RTX 3050,16,16,15.6,gaming,82990
+LENOVO,other,integrated,24,24,14.0,normal,93990
+APPLE,other,integrated,16,16,15.3,normal,122900
+APPLE,other,integrated,8,8,13.0,normal,69900
+APPLE,other,integrated,16,16,13.6,normal,119900
+APPLE,other,integrated,16,16,13.6,normal,119900
+ACER,i5,RTX 4050,16,16,16.0,gaming,82990
+ASUS,r7,RTX 3050,16,16,15.6,gaming,69990
+APPLE,other,integrated,16,16,13.6,normal,119900
+APPLE,other,integrated,16,16,15.3,normal,131900
+HP,other,integrated,16,16,14.0,normal,62990
+HP,other,integrated,16,16,16.0,normal,71990
+APPLE,other,integrated,8,8,13.0,normal,69900
+ASUS,i5,integrated,16,16,14.0,normal,67990
+ASUS,other,RTX 4050,16,16,16.0,gaming,88690
+ASUS,i5,integrated,16,16,16.0,normal,63990
+APPLE,other,integrated,24,24,14.2,normal,209900
+HP,r7,RTX 5050,24,24,15.6,gaming,116990
+HP,r5,integrated,8,8,15.6,normal,48490
+APPLE,other,integrated,8,8,13.0,normal,79900
+HP,other,integrated,16,16,14.0,normal,107990
+LENOVO,i5,RTX 3050,16,16,15.6,gaming,82990
+LENOVO,other,integrated,24,24,14.0,normal,93990
+APPLE,other,integrated,16,16,15.3,normal,122900
+APPLE,other,integrated,8,8,13.0,normal,69900
+APPLE,other,integrated,16,16,13.6,normal,119900
+APPLE,other,integrated,16,16,13.6,normal,119900
+ACER,i5,RTX 4050,16,16,16.0,gaming,82990
+ASUS,r7,RTX 3050,16,16,15.6,gaming,69990
+APPLE,other,integrated,16,16,13.6,normal,119900
+APPLE,other,integrated,16,16,15.3,normal,131900
+HP,other,integrated,16,16,14.0,normal,62990
+HP,other,integrated,16,16,16.0,normal,71990
+APPLE,other,integrated,8,8,13.0,normal,69900
+ASUS,i5,integrated,16,16,14.0,normal,67990
+ASUS,other,RTX 4050,16,16,16.0,gaming,88690
+ASUS,i5,integrated,16,16,16.0,normal,63990
+APPLE,other,integrated,24,24,14.2,normal,209900
+HP,r7,RTX 5050,24,24,15.6,gaming,116990
+HP,r5,integrated,8,8,15.6,normal,48490
+APPLE,other,integrated,8,8,13.0,normal,79900
+HP,other,integrated,16,16,14.0,normal,107990
+LENOVO,i5,RTX 3050,16,16,15.6,gaming,82990
+LENOVO,other,integrated,24,24,14.0,normal,93990
+APPLE,other,integrated,16,16,15.3,normal,122900
+APPLE,other,integrated,8,8,13.0,normal,69900
+APPLE,other,integrated,16,16,13.6,normal,119900
+APPLE,other,integrated,16,16,13.6,normal,119900
+ACER,i5,RTX 4050,16,16,16.0,gaming,82990
+ASUS,r7,RTX 3050,16,16,15.6,gaming,69990
+APPLE,other,integrated,16,16,13.6,normal,119900
+APPLE,other,integrated,16,16,15.3,normal,131900
+HP,other,integrated,16,16,14.0,normal,62990
+HP,other,integrated,16,16,16.0,normal,71990
+APPLE,other,integrated,8,8,13.0,normal,69900
+ASUS,i5,integrated,16,16,14.0,normal,67990
+ASUS,other,RTX 4050,16,16,16.0,gaming,88690
+ASUS,i5,integrated,16,16,16.0,normal,63990
+APPLE,other,integrated,24,24,14.2,normal,209900
+HP,r7,RTX 5050,24,24,15.6,gaming,116990
+HP,r5,integrated,8,8,15.6,normal,48490
+APPLE,other,integrated,8,8,13.0,normal,79900
+HP,other,integrated,16,16,14.0,normal,107990
+LENOVO,i5,RTX 3050,16,16,15.6,gaming,82990
+LENOVO,other,integrated,24,24,14.0,normal,93990
+APPLE,other,integrated,16,16,15.3,normal,122900
